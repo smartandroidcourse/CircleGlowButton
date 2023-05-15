@@ -8,7 +8,7 @@
 <li>
 <p dir="auto">Include the library as local library project:</p>
 <div class="highlight highlight-source-groovy notranslate position-relative overflow-auto" dir="auto">
-<pre><code class=" kode  language-css"></code><code id="depCodeGradle" class=" kode  language-css"><span class="token string">'com.github.smartandroidcourse:CircleGlowButton</span></code><code id="depCodeGradle" class=" kode  language-css"><span class="token string">:1.0</span></code><span class="pl-s"><span class="pl-pds">'<br /><br /></span></span></pre>
+<pre><code id="depCodeGradle" class=" kode  language-css">implementation <span class="token string">'com.github.smartandroidcourse:CircleGlowButton:1.0</span></code><span class="pl-s"><span class="pl-pds">'<br /><br /></span></span></pre>
 </div>
 </li>
 <li>
